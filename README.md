@@ -1,4 +1,4 @@
-# Blender
+# <img align="top" src="https://github.com/user-attachments/assets/7972321f-92b9-4550-a585-8473da078402"> Blender
 
 <img src="https://github.com/user-attachments/assets/7efc30d9-4e6c-4265-a374-509b9da9045c" alt="Screenshot (15)" align="left" width="450"> Blender is a powerful, open-source, and free 3D creation suite that is widely used in industries like film, animation, game development, and design. It offers a comprehensive range of tools for creating 3D models, animations, visual effects, simulations, and even video editing. Blender is celebrated for its versatility, active community, and frequent updates, making it a popular choice for professionals and hobbyists alike.
 
